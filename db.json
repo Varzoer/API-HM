@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": "33",
+      "name": "Sugar"
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": "16",
+      "name": "Bread"
+    },
+    {
+      "title": "Butter",
+      "price": "55",
+      "id": 5,
+      "name": "Butter"
+    },
+    {
+      "name": "Chocolate",
+      "price": "17",
+      "id": 6
+    },
+    {
+      "name": "Corn",
+      "price": "33",
+      "id": 7
+    }
+  ]
+}
